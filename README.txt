@@ -7,9 +7,6 @@ A simple digital patient record system for clinics. The doctor fills in the pati
 > The first load can take about a minute if the app has been idle (free hosting wakes up on demand).
 > This is a demo, so please use **fake patient data only**.
 
-
- 
-
 ## Features
 
 - 👨‍⚕️ Doctor registration and login, with the clinic name added to every record
